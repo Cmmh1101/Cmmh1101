@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cmmh1101
 - 👀 I’m interested in web and mobile development, education, fitness, and helping others!
 - 🌱 I’m currently learning react, react native, nodejs, mongoDB, and their supplements. 
-- 💞️ I’m looking to collaborate on front-end development
+- 💞️ I’m looking to collaborate on front-end development, English-Spanish website and apps translation/creation. 
 - 📫 You can reach out to me via linkedIn --> https://www.linkedin.com/in/carla-montano/ via Twitter --> https://twitter.com/cmmh11
 
 <!---
