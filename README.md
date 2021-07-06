@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cmmh1101
+- 👋 Hi, I’m @Cmmh1101 Carla Montano
 - 👀 I’m interested in web and mobile development, education, fitness, and helping others!
 - 🌱 I’m currently learning react, react native, nodejs, mongoDB, and their supplements. 
 - 💞️ I’m looking to collaborate on front-end development, English-Spanish website and apps translation/creation. 
