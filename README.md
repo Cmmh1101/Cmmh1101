@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cmmh1101 Carla Montano
 
-- 🌱 Frontend Web Developer: HTML, CSS, Bootstrap, SASS, Javascript, ReactJS, React Native. 
-- 🌱 Full Stack and Development in progress: NodeJS, Express, MongoDB.
+- 🌱 Frontend Web Developer: HTML, CSS, Bootstrap, SASS, Javascript, ReactJS, Redux, React Native. 
+- 🌱 Full Stack in progress: NodeJS, Express, MongoDB.
 
 - 👀 I’m interested in web and mobile development, education, and helping others!
  
