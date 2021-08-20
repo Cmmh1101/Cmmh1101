@@ -9,7 +9,7 @@
    -  Helping others develope skills!
  
 ## 💞️ I’m looking to:
-   - Work in companies with companies that embrace diversity.
+   - Work with companies that embrace diversity.
    - Collaborate in front-end development, English-Spanish websites and apps translation/creation. 
 
 
