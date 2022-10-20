@@ -1,22 +1,29 @@
 ## 👋 Hi, I’m @Cmmh1101 Carla Montano
 
-## 💻 Software Engineer: 
-   - 🌱 Frontend: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, ReactJS, Redux, React Native. 
-   - 🌱 Backend: NodeJS, Express, MongoDB - (MERN), C#, .NET
+## 💞️ Current role:
+   - Green Mountain Technology.
+   - Software Engineer. 
+
+## 💻 Some of my Software Engineering favorite technologies : 
+   - 🌱 Frontend: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, ReactJS, Redux, React Native, GraphQl, NextJs
+   - 🌱 Backend: NextJs, NodeJS, Express, MongoDB - (MERN), C#, .NET
    - 🌱 Testing: React-testing-library, Jest JS.
-   - 🌱 In progress: C#, .NET
+   - 🌱 In progress: C#, .NET, Python, SQL, Cypress
 
 ## 👀 I’m interested in:
-   -  Web and mobile development
-   -  Innovating Education with technology
-   -  Helping others develope skills!
+   - Accessibility
+   - Automation
+   - Web and mobile development
+   - Innovating and helping bussinesses with technology tools
+   - Helping others develope skills through mentorship and pair programming in and outside of my work place!
  
 ## 💞️ I’m looking to:
    - Work with companies that embrace diversity.
-   - Collaborate in front-end development, English-Spanish websites and apps translation/creation. 
+   - Connect with more developers and build relationships
+   - Collaborate in front-end development, English-Spanish websites. 
 
 
-## 📫 You can reach out to me via: 
+## 📫 We can connect via: 
 
 -         LinkedIn --> https://www.linkedin.com/in/carla-montano/ 
 -         Twitter --> https://twitter.com/cmmh11
