@@ -8,6 +8,8 @@
    - 🌱 Frontend: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, ReactJS, Redux, React Native, GraphQl, NextJs
    - 🌱 Backend: NextJs, NodeJS, Express, MongoDB - (MERN), C#, .NET
    - 🌱 Testing: React-testing-library, Jest JS.
+   - 🌱 Design: Figma, AdobeXD, Adobe Ilustrator, Canva 
+   - 🌱 Workflow: Jira, Confluence, Trello, GitLab, GitKracken, Bitbucket, Zapier, Google work, Microsoft Suit, Teams
    - 🌱 In progress: C#, .NET, Python, SQL, Cypress
 
 ## 👀 I’m interested in:
