@@ -20,8 +20,8 @@
    - Helping others develope skills through mentorship and pair programming in and outside of my work place!
  
 ## 💞️ I’m looking to:
-   - Work with companies that embrace diversity.
-   - Connect with more developers and build relationships
+   - Work with companies that embrace diversity and have clear values and mission. 
+   - Connect with more developers and build relationships.
    - Collaborate in front-end development, English-Spanish websites. 
 
 
