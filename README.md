@@ -1,12 +1,12 @@
 ## 👋 Hi, I’m @Cmmh1101 Carla Montano
 
 ## 💞️ Current role:
-   - Green Mountain Technology.
+   - Green Mountain.
    - Software Engineer. 
 
 ## 💻 Some of my Software Engineering favorite technologies : 
    - 🌱 Frontend: HTML, CSS, Bootstrap, SASS, JavaScript, TypeScript, ReactJS, Redux, React Native, GraphQl, NextJs
-   - 🌱 Backend: NextJs, NodeJS, Express, MongoDB - (MERN), C#, .NET
+   - 🌱 Backend: NextJs, NodeJS, Express, MongoDB - (MERN), C#, .NET, SQL, PostgreSql
    - 🌱 Testing: React-testing-library, Jest JS.
    - 🌱 Design: Figma, AdobeXD, Adobe Ilustrator, Canva 
    - 🌱 Workflow: Jira, Confluence, Trello, GitLab, GitKracken, Bitbucket, Zapier, Google work, Microsoft Suit, Teams
